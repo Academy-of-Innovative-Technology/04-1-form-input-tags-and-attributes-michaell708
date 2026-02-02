@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-image:url("https://res.cloudinary.com/rebelwalls/image/upload/b_black,c_fit,fl_progressive,q_auto,w_1333/v1428566513/article/R11821_image1");
+    }
+
+.form{
+    width: 50%;
+    height: 300px;
+    background: rgba(0,128,0, 0.6);
+    border: solid yellow thick;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-top: 75px;
+}
+
+.ipt1{
+    width:45px;
+}
+
+.ipt2{
+    width:95px;
+}
+
+.ipt3{
+    width:120px;
+}
